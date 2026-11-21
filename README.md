@@ -1,2 +1,2 @@
-# Simon2
-Version améliorée de mon premier Simon says
+# La Séquence
+Répétez une séquence de couleurs de plus en plus longue (4, 6 ou 8 touches).
